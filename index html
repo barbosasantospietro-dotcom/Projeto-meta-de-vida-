@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Meta do Ano 2026</title>
+</head>
+<body>
+    <section class="conteudo-principal">
+        <h2 class="titulo-principal">Meus Objetivos do ano<span>_</span></h2>
+        <div class="botoes">
+            <button class="botao">Conseguir um pc </button>
+            <button class="botao">conseguir um trabalho</button>
+            <button class="botao">Conquistar o mundo</button>
+            <button class="botao">Comprar Marte</button>
+        </div>
+    </section>
+    <script src="main.js"></script>
+</body>
+</html>
